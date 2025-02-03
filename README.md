@@ -1,6 +1,5 @@
 ## Hi there 👋
 # 💫 About Me:
-Hey, 👏 I'm Husnain Raza.<br>I'm currently learning MERN, and PERN stacks to enhance my skill set.<br>I'm going to deploy my Portfolio on Netlify.<br>Learn ➡ Unlearn ➡ Relearn
 
 h1 align="center">Hi 👋, I'm Basharat Ali</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
