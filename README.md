@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Husnain Raza<br>A passionate MERN Stack Developer from Pakistan<br><img align="center" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/><p align="left"> <img src="https://komarev.com/ghpvc/?username=Husnain585&label=Profile%20views&color=0e75b6&style=flat" alt="Husnain585" /> </p>
+<h1 align="center">Hi 👋, I'm Husnain Raza </h1><br> <h1 align="center">A passionate MERN Stack Developer from Pakistan </h1><br>
+<img align="center" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husnain585&label=Profile%20views&color=0e75b6&style=flat" alt="husnain585" /> </p>
 <br>🔭 I’m currently working on [Ecommerce Application](https://github.com/Husnain585/project.git)<br>- 🌱 I’m currently learning *Node js, React, and Redux*.<br>- 👯 I’m looking to collaborate on [Chat Application](https://github.com/Husnain585/Chat_Application.git)<br>- 👨‍💻 All of my projects are available at [Click me](https://github.com/Husnain585?tab=repositories)<br>- 💬 Ask me about React js<br>- 📫 How to reach me Husnain7t9.developer.com<br>- ✨ Learn ➡ Unlearn ➡ Relearn<br>- ⚡ Fun fact *I'm Introvert*<br>
 
 
