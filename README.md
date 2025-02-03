@@ -1,10 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
+<div>
 <h1 align="center">Hi 👋, I'm Husnain Raza</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
 <img align="center" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basharatali122&label=Profile%20views&color=0e75b6&style=flat" alt="basharatali122" /> </p>
 
 - 🔭 I’m currently working on [Ecommerce Application](https://github.com/Husnain585/project.git)
