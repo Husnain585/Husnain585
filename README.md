@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Chat Application](https://github.com/Husnain585/Chat_Application.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Husnain585?tab=repositories](https://github.com/Husnain585?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click me](https://github.com/Husnain585?tab=repositories)
 
 - 💬 Ask me about *react js*
 
