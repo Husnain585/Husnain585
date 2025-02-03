@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/husnain7t9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/basharat-ali-a9595822a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/husnain7t9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/basharat-ali-a9595822a" height="30" width="40" /></a>
 <a href="[https://fb.com/https://www.facebook.com/profile.php?id=100084972090610](https://www.facebook.com/share/1B7Ugv3U3p/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100084972090610" height="30" width="40" /></a>
 <a href="[https://instagram.com/basharatali](https://www.instagram.com/husnain7t9?igsh=MWtxYXVwMWFiczh2NA==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basharatali" height="30" width="40" /></a>
 </p>
